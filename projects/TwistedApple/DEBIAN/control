@@ -1,0 +1,9 @@
+Package: com.tiepat.TwistedApple
+Name: TwistedApple
+Depends: com.anemonetheming.anemone
+Version: 1.0
+Architecture: iphoneos-arm
+Description: IOS Theme
+Maintainer: tiepat <anounomus455@gmail.com>
+Author: tiepat <anounomus455@gmail.com>
+Section: Themes

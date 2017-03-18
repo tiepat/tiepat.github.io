@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PackageName</key>
+	<string>TwistedApple</string>    <!--Your Theme Name -->
+	
+	<key>CalendarIconDateSettings</key>  <!--Calendar Icon Settings -->
+	<dict>
+		<key>FontSize</key>
+		<integer>0</integer>
+		<key>ShadowBlurRadius</key>
+		<integer>0</integer>
+		<key>ShadowColor</key>
+		<string>rgba(0,0,0,0)</string>
+		<key>TextColor</key>
+		<string>#f2625b</string>
+		<key>TextYoffset</key>
+		<real>0</real>
+	</dict>
+	<key>CalendarIconDaySettings</key> <!--Calendar Icon Settings -->
+	<dict>
+		<key>FontSize</key>
+		<integer>35</integer>
+		<key>TextColor</key>
+		<string>#f7f7f7</string>
+		<key>TextYoffset</key>
+		<real>-2</real>
+	</dict>
+	<key>IB-MaskIcons</key> <!--Mask Icons True / or False -->
+	<true/>
+</dict>
+</plist>
+
+
+
+
+
+
+
