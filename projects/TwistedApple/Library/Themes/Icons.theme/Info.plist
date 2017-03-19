@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>PackageName</key>
-	<string>TwistedApple</string>    <!--Your Theme Name -->
-	
-	<key>CalendarIconDateSettings</key>  <!--Calendar Icon Settings -->
+	<string>TwistedApple</string>
+
+	<key>CalendarIconDateSettings</key>
 	<dict>
 		<key>FontSize</key>
 		<integer>0</integer>
@@ -18,7 +18,7 @@
 		<key>TextYoffset</key>
 		<real>0</real>
 	</dict>
-	<key>CalendarIconDaySettings</key> <!--Calendar Icon Settings -->
+	<key>CalendarIconDaySettings</key>
 	<dict>
 		<key>FontSize</key>
 		<integer>35</integer>
@@ -27,14 +27,7 @@
 		<key>TextYoffset</key>
 		<real>-2</real>
 	</dict>
-	<key>IB-MaskIcons</key> <!--Mask Icons True / or False -->
+	<key>IB-MaskIcons</key>
 	<true/>
 </dict>
 </plist>
-
-
-
-
-
-
-
