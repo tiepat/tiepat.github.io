@@ -2,5 +2,7 @@
 dpkg-scanpackages ./debs > Packages
 bzip2 -fks Packages
 git add --all
-git commit -m "Update"
+echo Please enter commit description.
+read vardesc
+git commit -m "$vardesc"
 git push
