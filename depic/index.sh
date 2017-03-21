@@ -1,5 +1,5 @@
 find ./TwistedApple/ -type f -name '*.html' -delete
-value = `cat ./template.txt'
+value = $(<./template.txt)
 name = "TwistedApple"
 desc = "A minimalistic theme that custimizes every aspect of your phone."
 cat = "Theme"
