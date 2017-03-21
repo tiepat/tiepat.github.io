@@ -5,9 +5,9 @@ Maintainer: tiepat <anounomus455@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.tiepat.twistedapple_1.6_iphoneos-arm.deb
 Size: 361422
-MD5sum: bc6c2108b4efd6a8ca907cd2dda951d0
-SHA1: dbe7e219a674c485e07386f20b568af6d60b4acc
-SHA256: a389c2521c15ddc65015186a26ef47091b6604ca0e3c732297630a15881a9e50
+MD5sum: 60a30778c159661c766bc33af54bd8cb
+SHA1: e8b1f0960b4af6fec35e681744ad8b4caed6bd74
+SHA256: aac41a041264c22291f7142be98ebad08cee657bca8e0a60fae2268157f1f07c
 Section: Themes
 Description: IOS Theme
 Author: tiepat <anounomus455@gmail.com>
