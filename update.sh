@@ -1,5 +1,5 @@
 #!/bin/bash
 ./remove.sh
 ./packages.sh
-./depic/TwistedApple/index.sh
+./depic/index.sh
 ./push.sh
