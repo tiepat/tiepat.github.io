@@ -1,5 +1,5 @@
 find /depic/TwistedApple/ -type f -name '*.html' -delete
-code = $(</depic/template.txt)
+vaule=$(</depic/template.txt)
 name = "TwistedApple"
 desc = "A minimalistic theme that custimizes every aspect of your phone."
 cat = "Theme"
