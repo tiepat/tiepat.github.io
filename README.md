@@ -3,7 +3,8 @@ IMPORTANT: Thank you to d4n5h for provideing most of the website. This is all hi
 -----------------------------------------------------------------
 
 Duckuino
-Live version here: https://d4n5h.github.io/Duckuino/
+Live version here: https://tiepat.github.io/
+
 DuckyScript -> Arduino converter/compiler + HID mouse emulation.
 
 ```diff
