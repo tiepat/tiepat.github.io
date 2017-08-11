@@ -1,3 +1,7 @@
+###IMPORTANT: Thank you to d4n5h for provideing most of the website. This is all his except for a part that allows arduino users with a button soildered between pin 3 and ground to stop payload when you plug it in.
+
+###-----------------------------------------------------------------
+
 #Duckuino
 ##Live version here: https://d4n5h.github.io/Duckuino/
 DuckyScript -> Arduino converter/compiler + HID mouse emulation.
@@ -16,3 +20,5 @@ Download HID-Project from: https://github.com/NicoHood/HID/archive/master.zip an
 ###Commands: https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript
 The commands are basically the same except that you can simulate a mouse with Duckuino like so:
 "MOUSEMOVE xPos,yPos,wheelPos" for positioning and "MOUSECLICK left/right/middle" for clicks.
+
+###Thank you to d4n5h for provideing most of the website. This is all his except for a part that allows arduino users with a button soildered between pin 3 and ground to stop payload when you plug it in.
