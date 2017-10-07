@@ -1,4 +1,4 @@
-This fork allows arduino users with a button soldered between pin 3 and ground to stop the payload when you plug it in. It also uses Keyboard.h instead of NicoHood.
+This fork allows arduino users with a button soldered between pin 2 and ground to stop the payload when you plug it in. It also uses Keyboard.h instead of NicoHood.
 
 -----------------------------------------------------------------
 
