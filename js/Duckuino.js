@@ -95,8 +95,7 @@ class Duckuino {
     }
 
     // Build the Arduino code skeleton
-    return '#include <HID-Project.h>\n'
-    + '#include <HID-Settings.h>\n\n'
+    return '#include <Keyboard.h>\n\n'
     + '// Utility function\n'
     + 'void typeKey(int key){\n'
     + '  Keyboard.press(key);\n'
@@ -110,16 +109,14 @@ class Duckuino {
     + '  if (digitalRead(3) == LOW){\n'
     + '  while(1);\n'
     + '  }\n\n'
-    + '  // Start Keyboard and Mouse\n'
-    + '  AbsoluteMouse.begin();\n'
+    + '  // Start Keyboard\n'
     + '  Keyboard.begin();\n\n'
     + '  // Start Payload\n'
     + parsedDucky
     + '\n'
     + '  // End Payload\n\n'
-    + '  // Stop Keyboard and Mouse\n'
+    + '  // Stop Keyboard\n'
     + '  Keyboard.end();\n'
-    + '  AbsoluteMouse.end();\n'
     + '}\n'
     + '\n'
     + '// Unused\n'
