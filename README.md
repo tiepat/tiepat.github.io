@@ -1,4 +1,4 @@
-providingIMPORTANT: Thank you to d4n5h for provideing most of the website. This is all his except for a part that allows arduino users with a button soldered between pin 3 and ground to stop the payload when you plug it in.
+This fork allows arduino users with a button soldered between pin 3 and ground to stop the payload when you plug it in. It also uses Keyboard.h instead of NicoHood.
 
 -----------------------------------------------------------------
 
@@ -21,7 +21,3 @@ NOTE: You should update the Arduino IDE to the latest version for better cross-p
 Commands: https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript
 
 -------------------------------------------------------------------
-
-Commands are mostly the same, but since I am in the United States I have changed it so it is US keyboard style. This means no mouse commands.
-
-Thank you to d4n5h for providing most of the website. This is all his except for a part that allows arduino users with a button soldered between pin 3 and ground to stop payload when you plug it in.
